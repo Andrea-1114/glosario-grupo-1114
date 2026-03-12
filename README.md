@@ -42,17 +42,7 @@
 
 ###### \## Terminos de Software
 
-###### ### `Software de Sistema` — Programas fundamentales que gestionan el hardware, como sistemas operativos (Windows, Linux, macOS).
 
-### `Aplicación (App)` — Modelo de distribución donde el software se licencia y suministra a través de internet bajo demanda.
-
-### `SAAS (Software as a Service)` —  Modelo de distribución donde el software se licencia y suministra a través de internet bajo demanda.
-
-###### ### `Código Abierto (Open Source)` — Software cuyo código fuente está disponible para el uso, modificación y distribución pública.
-
-### `Software Propietario` —  Software con restricciones de uso, modificación o distribución, bajo licencia del dueño.
-
-### `Firmware` —  Software integrado en el hardware que controla el funcionamiento de dispositivos electrónicos.
 
 ###### ---
 
