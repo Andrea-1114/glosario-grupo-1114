@@ -54,6 +54,7 @@
 
 ### `Firmware` —  Software integrado en el hardware que controla el funcionamiento de dispositivos electrónicos.
 
+
 ###### ---
 
 ###### \## Terminos Generales de Programacion
