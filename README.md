@@ -59,7 +59,13 @@
 
 ###### \## Terminos Generales de Programacion
 
-###### \*(Esta seccion sera completada por el Lider)\*
+Algoritmo: Secuencia lógica y ordenada de pasos para resolver un problema o realizar una tarea, según se explica en este video de YouTube.
+
+Variable: Espacio de memoria con un nombre único que almacena un dato que puede cambiar durante la ejecución del programa, señala EDteam y este documento en Studocu.
+
+Constante: Un valor que no cambia durante la ejecución del programa.
+
+Función: Un bloque de código diseñado para realizar una tarea específica, que puede ser reutilizado en diferentes partes del programa.
 
 ###### ---
 
